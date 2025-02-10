@@ -1,2 +1,2 @@
 Ola esse projeto ensina a usar o git
-Isso é uma alteração
+Isso Ã© uma alteraÃ§Ã£o
